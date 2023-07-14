@@ -1,0 +1,8 @@
+email, subject, message
+
+
+ again@gmail.com, agin ,agagin ansn again
+ contact@gmail.com, Reminder to RSVP to The wedding of Laila & Guillermo,guesswhooooo
+ go@gmail.com, hihihihi,I did it motherfucker!
+ trycsv@gmail.com, csvtry,newfile
+ trycsv@gmail.com, csvtry,newfile
